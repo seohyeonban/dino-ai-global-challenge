@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+# regenerable with src/make_ocr_bench.py (see out/ocr_bench/README.md)
+out/ocr_bench/images/
+out/ocr_bench/labels/
